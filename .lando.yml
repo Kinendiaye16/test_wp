@@ -1,0 +1,4 @@
+name: landoapp
+recipe: wordpress
+config:
+  webroot: wordpress
